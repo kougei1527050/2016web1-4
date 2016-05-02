@@ -3,10 +3,17 @@
  body{
   bakground-color:#fbf9cc;
  }
+ a{
+  color:#df4839;
+ }
+ a:hover{
+  color:#ff705b;
+ }
  
   h1{
   font-size:1.75em;
   color:#3399cc;
+  text-align:center;
   }
   
   h2{
@@ -21,6 +28,7 @@
   
   h1span{
    color:#d0e35b;
+
   }
   
   #kuro{
