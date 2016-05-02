@@ -1,7 +1,19 @@
  @charset"UT-8";
+ 
+ body{
+  bakground-color:#fbf9cc;
+ }
+ a{
+  color:#df4839;
+ }
+ a:hover{
+  color:#ff705b;
+ }
+ 
   h1{
   font-size:1.75em;
   color:#3399cc;
+  text-align:center;
   }
   
   h2{
@@ -14,8 +26,9 @@
   color:#333333
   }
   
-  h1span{
+  h1 span{
    color:#d0e35b;
+
   }
   
   #kuro{
