@@ -1,4 +1,9 @@
  @charset"UT-8";
+ 
+ body{
+  bakground-color:#fbf9cc;
+ }
+ 
   h1{
   font-size:1.75em;
   color:#3399cc;
